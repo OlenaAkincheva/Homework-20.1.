@@ -1,0 +1,62 @@
+#main-body {
+  background-color: #fef8ef;
+  color: #333;
+  padding: 20px;
+}
+ .main-title {
+	font-size: 40px;
+	color: #4b2e14;
+	text-align: center;
+	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+h1 {
+		font-size: 30px;
+		 color:#4d2906; 
+		 text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7); 	
+		}
+h2 {
+		font-size: 30px;
+		 color:#854709; 
+		 text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3); 	
+		}
+.pet-photo {
+	display: block;
+	margin: 20px auto;
+	border-radius: 20px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+p {
+	font-size: 20px;
+	line-height: 1.6;
+	margin: 20px 0;
+}
+li {
+font-size: 20px;
+	line-height: 1.6;
+	margin: 20px 0;	
+}
+.section-title {
+	font-size: 28px;
+	color: #3b311c;
+	text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+	margin-top: 40px;
+	border-left: 5px solid #8b5e3c;
+	padding-left: 15px;
+}
+
+.text-block {
+	font-size: 18px;
+	line-height: 1.6;
+	margin: 20px 0;
+}
+
+.pet-photo {
+	display: block;
+	margin: 20px auto;
+	border-radius: 15px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+a {
+	color: #e6998c;
+	text-decoration: underline;
+}
